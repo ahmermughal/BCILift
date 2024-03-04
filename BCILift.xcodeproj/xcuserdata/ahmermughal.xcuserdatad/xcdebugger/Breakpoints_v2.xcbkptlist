@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E62B19FB-54CA-4B9E-8088-61AEC5089D20"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE1CA1D5-27EE-4E8F-BF05-BADC65BB6376"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "callLift(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE1CA1D5-27EE-4E8F-BF05-BADC65BB6376 - f1f962e9525444c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "FE1CA1D5-27EE-4E8F-BF05-BADC65BB6376 - f1f962e9525444a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF3631A3-DA3F-4DEF-AC0B-D2FE2A08AD95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "callLift(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF3631A3-DA3F-4DEF-AC0B-D2FE2A08AD95 - f1f962e95254443f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "CF3631A3-DA3F-4DEF-AC0B-D2FE2A08AD95 - f1f962e95254441e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DF104D4-E007-42BB-A6C0-173914F61523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "callLift(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DF104D4-E007-42BB-A6C0-173914F61523 - 63e6737bfac1e9b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "8DF104D4-E007-42BB-A6C0-173914F61523 - 63e6737bfac1e9b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+               <Location
+                  uuid = "8DF104D4-E007-42BB-A6C0-173914F61523 - 63e6737bfac1e9b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCILift.NetworkManager.callLift(completed: (Swift.Result&lt;Swift.String, BCILift.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCILift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmermughal/Documents/iOS/BCILift/BCILift/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "2028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40073A31-18F0-4ACA-82E8-E371338127A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/MuseManager/MuseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "receive(_:muse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDBF7214-D32B-4C94-8F45-25163EF30994"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/MuseManager/MuseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "receive(_:muse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB6C7D0A-EE28-4730-89A6-960F68324C8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/MuseManager/MuseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "receive(_:muse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "441457F4-06DE-4326-B425-5A18F87492B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCILift/MuseManager/MuseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "receive(_:muse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

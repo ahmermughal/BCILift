@@ -7,23 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C5573D172B8F3BE900E90749 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5573D162B8F3BE900E90749 /* BaseViewController.swift */; };
 		C5BBAEF32B8669E600D60DBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAEF22B8669E600D60DBA /* AppDelegate.swift */; };
 		C5BBAEF52B8669E600D60DBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAEF42B8669E600D60DBA /* SceneDelegate.swift */; };
-		C5BBAEF72B8669E600D60DBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAEF62B8669E600D60DBA /* ViewController.swift */; };
-		C5BBAEFA2B8669E600D60DBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5BBAEF82B8669E600D60DBA /* Main.storyboard */; };
+		C5BBAEF72B8669E600D60DBA /* HeadsetListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAEF62B8669E600D60DBA /* HeadsetListVC.swift */; };
 		C5BBAEFC2B8669E700D60DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5BBAEFB2B8669E700D60DBA /* Assets.xcassets */; };
 		C5BBAEFF2B8669E700D60DBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5BBAEFD2B8669E700D60DBA /* LaunchScreen.storyboard */; };
+		C5BBAF092B866C5800D60DBA /* HeadsetListContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAF082B866C5800D60DBA /* HeadsetListContentView.swift */; };
+		C5BBAF0F2B86756E00D60DBA /* InstructionsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAF0E2B86756E00D60DBA /* InstructionsContentView.swift */; };
+		C5BBAF112B867A3F00D60DBA /* InstructionsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BBAF102B867A3F00D60DBA /* InstructionsVC.swift */; };
+		C5D9E8142B878C930046846C /* MuseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D9E8132B878C930046846C /* MuseManager.swift */; };
+		C5D9E81C2B878F4A0046846C /* Muse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5D9E8162B878CDE0046846C /* Muse.framework */; };
+		C5FB72B22B8D1ADD006D31B8 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FB72B12B8D1ADD006D31B8 /* NetworkManager.swift */; };
+		C5FB72B42B8D1C95006D31B8 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FB72B32B8D1C95006D31B8 /* NetworkError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C5573D162B8F3BE900E90749 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		C5BBAEEF2B8669E600D60DBA /* BCILift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BCILift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5BBAEF22B8669E600D60DBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5BBAEF42B8669E600D60DBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C5BBAEF62B8669E600D60DBA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C5BBAEF92B8669E600D60DBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C5BBAEF62B8669E600D60DBA /* HeadsetListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadsetListVC.swift; sourceTree = "<group>"; };
 		C5BBAEFB2B8669E700D60DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5BBAEFE2B8669E700D60DBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5BBAF002B8669E700D60DBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5BBAF082B866C5800D60DBA /* HeadsetListContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadsetListContentView.swift; sourceTree = "<group>"; };
+		C5BBAF0E2B86756E00D60DBA /* InstructionsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsContentView.swift; sourceTree = "<group>"; };
+		C5BBAF102B867A3F00D60DBA /* InstructionsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsVC.swift; sourceTree = "<group>"; };
+		C5D9E8132B878C930046846C /* MuseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuseManager.swift; sourceTree = "<group>"; };
+		C5D9E8162B878CDE0046846C /* Muse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Muse.framework; sourceTree = "<group>"; };
+		C5D9E8212B87900A0046846C /* BCILift-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BCILift-Bridging-Header.h"; sourceTree = "<group>"; };
+		C5FB72B12B8D1ADD006D31B8 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		C5FB72B32B8D1C95006D31B8 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,12 +46,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5D9E81C2B878F4A0046846C /* Muse.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C5573D142B8F3BC900E90749 /* Custom */ = {
+			isa = PBXGroup;
+			children = (
+				C5573D152B8F3BD200E90749 /* VC */,
+			);
+			path = Custom;
+			sourceTree = "<group>";
+		};
+		C5573D152B8F3BD200E90749 /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				C5573D162B8F3BE900E90749 /* BaseViewController.swift */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
 		C5BBAEE62B8669E500D60DBA = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +88,95 @@
 		C5BBAEF12B8669E600D60DBA /* BCILift */ = {
 			isa = PBXGroup;
 			children = (
+				C5573D142B8F3BC900E90749 /* Custom */,
+				C5FB72B02B8D1ACF006D31B8 /* NetworkManager */,
+				C5D9E8152B878CB40046846C /* Framework */,
+				C5D9E8122B878C7B0046846C /* MuseManager */,
+				C5BBAF0B2B86752800D60DBA /* Instructions */,
+				C5BBAF062B866C2700D60DBA /* HeadsetList */,
 				C5BBAEF22B8669E600D60DBA /* AppDelegate.swift */,
 				C5BBAEF42B8669E600D60DBA /* SceneDelegate.swift */,
-				C5BBAEF62B8669E600D60DBA /* ViewController.swift */,
-				C5BBAEF82B8669E600D60DBA /* Main.storyboard */,
 				C5BBAEFB2B8669E700D60DBA /* Assets.xcassets */,
 				C5BBAEFD2B8669E700D60DBA /* LaunchScreen.storyboard */,
 				C5BBAF002B8669E700D60DBA /* Info.plist */,
 			);
 			path = BCILift;
+			sourceTree = "<group>";
+		};
+		C5BBAF062B866C2700D60DBA /* HeadsetList */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAF0A2B86703300D60DBA /* VC */,
+				C5BBAF072B866C4000D60DBA /* View */,
+			);
+			path = HeadsetList;
+			sourceTree = "<group>";
+		};
+		C5BBAF072B866C4000D60DBA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAF082B866C5800D60DBA /* HeadsetListContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C5BBAF0A2B86703300D60DBA /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAEF62B8669E600D60DBA /* HeadsetListVC.swift */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+		C5BBAF0B2B86752800D60DBA /* Instructions */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAF0D2B86755C00D60DBA /* VC */,
+				C5BBAF0C2B86755900D60DBA /* View */,
+			);
+			path = Instructions;
+			sourceTree = "<group>";
+		};
+		C5BBAF0C2B86755900D60DBA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAF0E2B86756E00D60DBA /* InstructionsContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C5BBAF0D2B86755C00D60DBA /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				C5BBAF102B867A3F00D60DBA /* InstructionsVC.swift */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+		C5D9E8122B878C7B0046846C /* MuseManager */ = {
+			isa = PBXGroup;
+			children = (
+				C5D9E8132B878C930046846C /* MuseManager.swift */,
+			);
+			path = MuseManager;
+			sourceTree = "<group>";
+		};
+		C5D9E8152B878CB40046846C /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				C5D9E8212B87900A0046846C /* BCILift-Bridging-Header.h */,
+				C5D9E8162B878CDE0046846C /* Muse.framework */,
+			);
+			path = Framework;
+			sourceTree = "<group>";
+		};
+		C5FB72B02B8D1ACF006D31B8 /* NetworkManager */ = {
+			isa = PBXGroup;
+			children = (
+				C5FB72B12B8D1ADD006D31B8 /* NetworkManager.swift */,
+				C5FB72B32B8D1C95006D31B8 /* NetworkError.swift */,
+			);
+			path = NetworkManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,6 +211,7 @@
 				TargetAttributes = {
 					C5BBAEEE2B8669E600D60DBA = {
 						CreatedOnToolsVersion = 15.2;
+						LastSwiftMigration = 1520;
 					};
 				};
 			};
@@ -127,7 +240,6 @@
 			files = (
 				C5BBAEFF2B8669E700D60DBA /* LaunchScreen.storyboard in Resources */,
 				C5BBAEFC2B8669E700D60DBA /* Assets.xcassets in Resources */,
-				C5BBAEFA2B8669E600D60DBA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +250,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5BBAEF72B8669E600D60DBA /* ViewController.swift in Sources */,
+				C5BBAEF72B8669E600D60DBA /* HeadsetListVC.swift in Sources */,
 				C5BBAEF32B8669E600D60DBA /* AppDelegate.swift in Sources */,
 				C5BBAEF52B8669E600D60DBA /* SceneDelegate.swift in Sources */,
+				C5D9E8142B878C930046846C /* MuseManager.swift in Sources */,
+				C5FB72B22B8D1ADD006D31B8 /* NetworkManager.swift in Sources */,
+				C5573D172B8F3BE900E90749 /* BaseViewController.swift in Sources */,
+				C5BBAF092B866C5800D60DBA /* HeadsetListContentView.swift in Sources */,
+				C5BBAF0F2B86756E00D60DBA /* InstructionsContentView.swift in Sources */,
+				C5BBAF112B867A3F00D60DBA /* InstructionsVC.swift in Sources */,
+				C5FB72B42B8D1C95006D31B8 /* NetworkError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C5BBAEF82B8669E600D60DBA /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C5BBAEF92B8669E600D60DBA /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		C5BBAEFD2B8669E700D60DBA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -290,16 +401,23 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7DQ27655C6;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/BCILift/Framework",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BCILift/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "To operate lift";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,9 +425,15 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahmer.BCILift.BCILift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "BCILift/Framework/BCILift-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -318,16 +442,23 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7DQ27655C6;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/BCILift/Framework",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BCILift/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "To operate lift";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -335,9 +466,14 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahmer.BCILift.BCILift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "BCILift/Framework/BCILift-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
