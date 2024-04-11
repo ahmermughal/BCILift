@@ -10,7 +10,7 @@ import UIKit
 class NetworkManager{
     
     static let shared = NetworkManager()
-    private let baseURL = "http://elevator.local:8080"
+    private let baseURL = "http://nb-634.local:8080"
 
     
     private init(){}

@@ -61,6 +61,7 @@ class HeadsetListVC: BaseViewController {
     private func setupVC(){
         title = "Select Headset 🥽"
         navigationController?.navigationBar.prefersLargeTitles = true
+        navigationController?.navigationBar.tintColor = .label
     }
 
     

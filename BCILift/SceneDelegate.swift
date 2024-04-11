@@ -19,7 +19,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.windowScene = windowScene
         
         window?.rootViewController = UINavigationController(rootViewController: HeadsetListVC(museManager: MuseManager()))
-        window?.backgroundColor = .black
+        window?.backgroundColor = .systemBackground
         window?.makeKeyAndVisible()
 
     }
